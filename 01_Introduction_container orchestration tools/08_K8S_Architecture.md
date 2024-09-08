@@ -1,5 +1,8 @@
 **Kubernetes Architecture Overview**
 
+![image](https://github.com/user-attachments/assets/be4a85b6-4079-43c7-8767-95d267ce5a10)
+
+
 Kubernetes operates on a master-worker architecture, built to orchestrate containerized applications across a distributed environment. It provides a robust, scalable, and resilient system for managing containers on multiple machines within a cluster.
 
 ### Main Components of Kubernetes Architecture
